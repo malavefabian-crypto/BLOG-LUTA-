@@ -1,0 +1,32 @@
+        h1 {
+            text-align: center;
+            color: #ffffff; /* Mudado para branco para destacar no fundo */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Sombra para dar leitura */
+        }
+        
+        .bloco {
+            background: rgba(255, 255, 255, 0.9); /* Mudado para um fundo branco semi-transparente */
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid #a5a3a3; 
+            width: 100%;
+            max-width: 500px; 
+            box-sizing: border-box;
+            border-radius: 8px; /* Opcional: deixa os cantos arredondados e modernos */
+        }
+        h1 {
+            text-align: center;
+            color: #ffffff; /* Mudado para branco para destacar no fundo */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Sombra para dar leitura */
+        }
+        
+        .bloco {
+            background: rgba(255, 255, 255, 0.9); /* Mudado para um fundo branco semi-transparente */
+            padding: 15px;
+            margin-bottom: 20px;
+            border: 1px solid #a5a3a3; 
+            width: 100%;
+            max-width: 500px; 
+            box-sizing: border-box;
+            border-radius: 8px; /* Opcional: deixa os cantos arredondados e modernos */
+        }
